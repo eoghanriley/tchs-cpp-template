@@ -16,7 +16,7 @@ if [ ! -f "$CPP_FILE" ]; then
 fi
 
 # Get the output directory from the second argument or default to ./build/
-OUTPUT_DIR="${2:-./build}"
+OUTPUT_DIR="./build"
 
 # Create the output directory if it doesn't exist
 mkdir -p "$OUTPUT_DIR"
