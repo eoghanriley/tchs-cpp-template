@@ -9,7 +9,6 @@
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	"features": {
-		"ghcr.io/devcontainers-contrib/features/neovim-apt-get:1": {},
 		"ghcr.io/devcontainers-contrib/features/starship:1": {
 			"version": "latest"
 		},
