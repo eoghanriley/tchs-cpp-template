@@ -18,7 +18,7 @@ It may ask you to sign into github once installed or install the codespaces exte
 Please make sure you provide enough time for github's servers to finish setting up your codespaces
 
 ## Quickstart
-```just br main```
+```just br main```  
 This should have just compiled src/main.cpp to build/main and ran it automatically.
 The building and running section is a more in depth version of this section.
 
