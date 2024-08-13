@@ -14,7 +14,7 @@ int main() {
   int sum = x + y;
 
   // Output sum
-  std::cout << "Sum is: " << sum;
+  std::cout << "Sum is: " << sum << std::endl;
 
   return 0;
 }
