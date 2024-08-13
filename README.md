@@ -29,7 +29,7 @@ Just is the easiest way to run your code as all the commands required to build a
 ```just run (path to executable (ie. build/main))```
 
 #### Build and Run
-```just build-run (name of src file and executable (ie. main))```
+```just build-run (name of src file and executable (ie. main))```  
 There is an alias set up for the command which is ```just br (name of src file and executable (ie. main))```
 
 ### build.sh
