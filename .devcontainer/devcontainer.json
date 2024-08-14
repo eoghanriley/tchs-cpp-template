@@ -26,7 +26,10 @@
 			"extensions": [
 				"ms-vscode.cpptools-extension-pack",
 				"MS-vsliveshare.vsliveshare"
-			]
+			],
+            "settings": {
+                "files.exclude": ["**/.*", "Justfile", "LICENSE", "*.md", "*.sh", "build"], 
+            }
 		}
 	}
 
