@@ -5,7 +5,7 @@ Template for tchs students to use when writing c++
 Create your own repository off of this template and then open up a codespace.  
 Then run ```just br main``` in your terminal.  
 This should have just compiled src/main.cpp to build/main and ran it automatically.
-Congrate you have now setup your c++ workspace!
+Congrats you have now setup your c++ workspace!
 
 The rest of the readme is a more in depth version of this section.
 
