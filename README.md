@@ -60,10 +60,13 @@ There is an alias set up for the command which is ```just br (name of src file a
 ```./build-all```
 
 ### Troubleshooting
-If you are unable to run ./build.sh either manually or through just, run the following command:
+If you are unable to run ./build.sh either manually or through just, run the following command:  
 ```chmod +x build.sh```
 
-If you are unable to run the executable either manually or through just, run the following command:
+If you are unable to run ./build-all.sh either manually or through just, run the following command:  
+```chmod +x build-all.sh```
+
+If you are unable to run the executable either manually or through just, run the following command:  
 ```chmod +x build/(executable (ie. main))```
 
 ## Closing the codespace
