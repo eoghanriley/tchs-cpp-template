@@ -5,7 +5,7 @@ Template for tchs students to use when writing c++
 Create your own repository off of this template and then open up a codespace.  
 Then run ```just br main``` in your terminal.  
 This should have just compiled src/main.cpp to build/main and ran it automatically.
-Congrate you have now setup your c++ workspace!
+Congrats you have now setup your c++ workspace!
 
 The rest of the readme is a more in depth version of this section.
 
@@ -60,10 +60,13 @@ There is an alias set up for the command which is ```just br (name of src file a
 ```./build-all```
 
 ### Troubleshooting
-If you are unable to run ./build.sh either manually or through just, run the following command:
+If you are unable to run ./build.sh either manually or through just, run the following command:  
 ```chmod +x build.sh```
 
-If you are unable to run the executable either manually or through just, run the following command:
+If you are unable to run ./build-all.sh either manually or through just, run the following command:  
+```chmod +x build-all.sh```
+
+If you are unable to run the executable either manually or through just, run the following command:  
 ```chmod +x build/(executable (ie. main))```
 
 ## Closing the codespace
