@@ -23,7 +23,7 @@ It may take up to a couple minutes.
 Once it is loaded and you can view your code you are able to interact with your code you are good to go and can use it like a typical vscode instance.
 
 ## How to use (local vscode)
-Now that the codespace is created if you go **[HERE](https://github.com/codespaces)** find your new isntance, click the three dots and choose to open with vscode and it will launch vscode on your computer.
+Now that the codespace is created if you go **[HERE](https://github.com/codespaces)** find your new instance, click the three dots and choose to open with vscode and it will launch vscode on your computer.
 It may ask you to sign into github once installed or install the codespaces extension, both of these are required to continue.
 
 Please make sure you provide enough time for github's servers to finish setting up your codespaces
