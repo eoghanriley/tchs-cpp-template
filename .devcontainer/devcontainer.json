@@ -23,13 +23,19 @@
 	// Configure tool-specific properties.
 	"customizations": {
 		"vscode": {
+            "settings": {
+                    "files.exclude": {
+                    "**/.*": true,
+                    "Justfile": true,
+                    "*.sh": true,
+                    "*.md": true,
+                    "LICENSE": true
+                }
+            },
 			"extensions": [
 				"ms-vscode.cpptools-extension-pack",
 				"MS-vsliveshare.vsliveshare"
-			],
-            "settings": {
-                "files.exclude": ["**/.*", "Justfile", "LICENSE", "*.md", "*.sh", "build"], 
-            }
+			]
 		}
 	}
 
