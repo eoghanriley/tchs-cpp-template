@@ -24,11 +24,10 @@
 	"customizations": {
 		"vscode": {
             "settings": {
-                    "files.exclude": {
-                    "**/.*": true,
+                "files.exclude": {
+                    "**/.*": true, // all dotfiles 
+                    "build*.sh": true,
                     "Justfile": true,
-                    "*.sh": true,
-                    "*.md": true,
                     "LICENSE": true
                 }
             },
