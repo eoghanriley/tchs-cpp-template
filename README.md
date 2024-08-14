@@ -1,8 +1,19 @@
 # tchs-cpp-template
 Template for tchs students to use when writing c++
 
+## Quickstart
+Create your own repository off of this template and then open up a codespace.  
+Then run ```just br main``` in your terminal.  
+This should have just compiled src/main.cpp to build/main and ran it automatically.
+Congrate you have now setup your c++ workspace!
+
+The rest of the readme is a more in depth version of this section.
+
+## Creating your repo
+In the very top right find the button that says "Use this template", then create in a new repository, and follow through the instructions provided by github until your repo is created.
+
 ## How to open
-Click the big button that says Code at the top of the page. Then select codespaces in the pop-up that just opened and finally hit create codespace on main.
+Click the big button that says "Code" at the top of the page. Then select codespaces in the pop-up that just opened and finally hit create codespace on main.
 
 ## How to use (web)
 Now that the codespace is created, by default it will open up a new tab that will take a while to load as the container finishes setting up.
@@ -16,11 +27,6 @@ Now that the codespace is created if you go **[HERE](https://github.com/codespac
 It may ask you to sign into github once installed or install the codespaces extension, both of these are required to continue.
 
 Please make sure you provide enough time for github's servers to finish setting up your codespaces
-
-## Quickstart
-```just br main```  
-This should have just compiled src/main.cpp to build/main and ran it automatically.
-The building and running section is a more in depth version of this section.
 
 ## Building and running your code
 There are 2 ways to build your code, Just and build.sh.
