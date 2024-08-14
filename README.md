@@ -34,6 +34,10 @@ Just is the easiest way to run your code as all the commands required to build a
 #### Run
 ```just run (path to executable (ie. build/main))```
 
+#### Build All
+```just build-all``` or  
+```just ba```
+
 #### Build and Run
 ```just build-run (name of src file and executable (ie. main))```  
 There is an alias set up for the command which is ```just br (name of src file and executable (ie. main))```
@@ -45,6 +49,9 @@ There is an alias set up for the command which is ```just br (name of src file a
 
 #### Run
 ```./build/(executable (ie. main))```
+
+#### Build All
+```./build-all```
 
 ### Troubleshooting
 If you are unable to run ./build.sh either manually or through just, run the following command:
