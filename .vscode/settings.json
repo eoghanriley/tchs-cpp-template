@@ -7,7 +7,7 @@
         "**/.DS_Store": true,
         "**/Thumbs.db": true,
         "**/*.crswap": true,
-        "build/": true,
+        "build/": false,
         ".github/": true,
         ".devcontainer/": true,
         ".gitignore": true,
