@@ -16,7 +16,7 @@ run path_to_executable:
   {{justfile_directory()}}/build/{{path_to_executable}}
 
 build-run name:
-  @just build {{ name + ".cpp" }}
+  @just build {{ name }}
 
   @just run {{ name }}
 
